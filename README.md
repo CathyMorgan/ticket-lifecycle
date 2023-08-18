@@ -25,40 +25,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Intake
 - Assignment and Communication
 - Working the Issue
-- Resolution
 
-<h2>Lifecycle Stages</h2>
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-Certainly! Here's an enhanced version of the tutorial that highlights your knowledge and ability:
-
-Title: osTicket Ticket Lifecycle: A Comprehensive Overview
+Title: osTicket Ticket Lifecycle: Overview
 
 Introduction:
-In this tutorial, I will provide a comprehensive overview of the ticket lifecycle within osTicket, an open-source help desk ticketing system. By explaining each stage of the lifecycle, including intake, assignment and communication, working the issue, and resolution, I aim to showcase my knowledge and ability in managing and resolving tickets effectively.
+In this tutorial, I will provide an overview of the ticket lifecycle within osTicket, an open-source help desk ticketing system. By explaining each stage of the lifecycle, including intake, assignment and communication, working the issue, and resolution, I aim to showcase my knowledge and ability in managing and resolving tickets effectively.
 
 Environments and Technologies Used:
 To demonstrate the ticket lifecycle, I utilized the following environments and technologies:
