@@ -52,3 +52,33 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+
+Certainly! Here's an enhanced version of the tutorial that highlights your knowledge and ability:
+
+Title: osTicket Ticket Lifecycle: A Comprehensive Overview
+
+Introduction:
+In this tutorial, I will provide a comprehensive overview of the ticket lifecycle within osTicket, an open-source help desk ticketing system. By explaining each stage of the lifecycle, including intake, assignment and communication, working the issue, and resolution, I aim to showcase my knowledge and ability in managing and resolving tickets effectively.
+
+Environments and Technologies Used:
+To demonstrate the ticket lifecycle, I utilized the following environments and technologies:
+
+- Microsoft Azure (Virtual Machines/Compute): This platform was used to host the osTicket system.
+- Remote Desktop: I accessed the virtual machine hosting osTicket via Remote Desktop for seamless management.
+- Internet Information Services (IIS): I configured IIS to ensure proper functioning of osTicket.
+- Operating System: Throughout this tutorial, I utilized Windows 10 (21H2) as the operating system.
+
+Ticket Lifecycle Stages:
+
+1. Intake:
+The first stage of the ticket lifecycle involves the creation of a ticket by a user. For instance, in our scenario, User Ken creates a ticket by providing relevant information about their issue.
+
+2. Assignment and Communication:
+Once a ticket is created, it needs to be assigned to the appropriate support agent. In our example, Support Agent John Doe logs in and receives the Sev-A emergency ticket. However, recognizing that this ticket requires the expertise of a System Administrator, Agent John reassigns it accordingly. Throughout this process, effective communication is crucial, and Agent John ensures to leave a clear and informative message for the System Administrator.
+
+3. Working the Issue:
+After the ticket is assigned, the designated agent, in this case, System Administrator Agent Jane Doe, logs in to address the issue. Agent Jane diligently works on the problem and maintains communication with Agent John to provide updates and gather any additional information required. To streamline the workflow, Agent Jane also switches the status of the ticket from open to resolved upon resolving the issue successfully.
+
+4. Resolution:
+Support Agent John, who initially received the ticket, now sees in his portal that System Administrator Agent Jane has left a message and that the ticket is closed. This indicates that the issue has been resolved successfully.
+
